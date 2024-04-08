@@ -1,2 +1,2 @@
-# Swift Frameworks/.NET C# Interopability Demo
- Simple demo to showcase interopability between swift frameworks and .NET C#
+# Swift Frameworks/.NET C# Interoperability Demo
+ Simple demo to showcase interoperability between swift frameworks and .NET C#
